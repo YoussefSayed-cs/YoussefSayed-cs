@@ -8,7 +8,7 @@
 
 ### Computer Science Student | PHP & Laravel Backend Developer
 
-I build practical backend applications using PHP and Laravel, with a focus on clean architecture, APIs, databases, and real-world application design.
+I build practical backend applications using PHP and Laravel, with a focus on clean code, REST APIs, databases, and real-world application design.
 
 ---
 
@@ -17,7 +17,7 @@ I build practical backend applications using PHP and Laravel, with a focus on cl
 - Computer Science student
 - Focused on PHP and Laravel backend development
 - Interested in software architecture and backend engineering
-- Building real-world applications rather than only tutorial projects
+- Building practical projects to improve my development skills
 - Currently improving my knowledge of databases, testing, caching, Docker, and deployment
 
 ---
@@ -62,7 +62,7 @@ I build practical backend applications using PHP and Laravel, with a focus on cl
 
 A Laravel 12 job board platform built around real-world recruitment workflows.
 
-### Features
+### Main Features
 
 - Authentication and authorization
 - Role-based access control
