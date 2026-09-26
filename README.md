@@ -13,19 +13,19 @@
 
 <br>
 
-## 👋 About Me
+## About Me
 
 Computer Science student and backend developer focused on **PHP & Laravel**. I design and ship real-world systems — not just CRUD apps — with clean architecture, background processing, and third-party API integrations.
 
-- 🎯 Currently seeking **junior/entry-level backend roles**
-- 🧱 Comfortable with `MVC` · `Service Layer` · `Eloquent ORM` · `Queues & Jobs` · `Events & Listeners`
-- 📚 Currently leveling up on testing, Docker, and deployment
+- Currently seeking **junior/entry-level backend roles**
+- Comfortable with `MVC` · `Service Layer` · `Eloquent ORM` · `Queues & Jobs` · `Events & Listeners`
+- Currently leveling up on testing, Docker, and deployment
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,git,github,docker,linux,postman,vscode" />
 
-## 🚀 Featured Project — Shagalni (Job Board Platform)
+## Featured Project — Shagalni (Job Board Platform)
 
 A **Laravel 12** job board platform built around real recruitment workflows, designed as **three cooperating repositories** sharing one domain layer.
 
@@ -41,9 +41,3 @@ A **Laravel 12** job board platform built around real recruitment workflows, des
 | [job-backoffice](https://github.com/YoussefSayed-cs/job-backoffice) | Admin & company dashboard |
 | [job-shared](https://github.com/YoussefSayed-cs/job-shared) | Shared models & notifications |
 
-## 📊 GitHub Activity
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YoussefSayed-cs&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefSayed-cs&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
