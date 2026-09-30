@@ -25,19 +25,3 @@ Computer Science student and backend developer focused on **PHP & Laravel**. I d
 
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgresql,git,github,docker,linux,postman,vscode" />
 
-## Featured Project — Shagalni (Job Board Platform)
-
-A **Laravel 12** job board platform built around real recruitment workflows, designed as **three cooperating repositories** sharing one domain layer.
-
-**What it demonstrates:**
-- End-to-end feature ownership: auth, role-based access, search & filtering, file uploads
-- Asynchronous processing — job applications respond instantly while an AI scoring job runs in the background (queues, retries, backoff)
-- Third-party API integration — résumé parsing & scoring via the Google Gemini API
-- Multi-repo system design with a shared Composer package for models & notifications
-
-| Repository | Role |
-|---|---|
-| **[job-app](https://github.com/Shagalni-Job-Board/job-app)** | Job-seeker facing app — search, apply, track applications *(start here)* |
-| [job-backoffice](https://github.com/YoussefSayed-cs/job-backoffice) | Admin & company dashboard |
-| [job-shared](https://github.com/YoussefSayed-cs/job-shared) | Shared models & notifications |
-
